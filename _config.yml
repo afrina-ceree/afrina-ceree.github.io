@@ -185,7 +185,7 @@ exclude:
   - README
   - tmp
   - vendor
-  -pages/cv.md
+  - pages/cv.md
 keep_files:
   - .git
   - .svn
