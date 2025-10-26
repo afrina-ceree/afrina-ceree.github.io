@@ -186,6 +186,7 @@ exclude:
   - tmp
   - vendor
   - pages/cv.md
+  - teaching
 keep_files:
   - .git
   - .svn
