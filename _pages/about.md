@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an undergraduate student at the University of Malaya and a research assistant at the School of Computer Science, Peking University. I am fortunate to have closely collaborated with [Prof. Hao Tang](https://ha0tang.github.io) during my undergraduate studies. 
 
-I am eager to contribute to innovative projects in AI Drug Discovery (AIDD) or computational biology and welcome discussions regarding internship opportunities and industry collaborations. If you are interested in learning more, I am available for a brief 10–15 minute meeting to share my insights. Please feel free to reach out to me at. [otiswzx@outlook.com](otiswzx@outlook.com)
+I am eager to contribute to innovative projects in AI Drug Discovery (AIDD) or computational biology and welcome discussions regarding internship opportunities and industry collaborations. If you are interested in drug discovery or computational biology, I would be pleased to schedule a brief 10-15 minute meeting to discuss my perspectives. Please feel free to reach out to me at. [otiswzx@outlook.com](otiswzx@outlook.com)
 
 Education
 ======
