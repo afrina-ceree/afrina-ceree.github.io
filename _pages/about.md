@@ -16,7 +16,7 @@ Education
 2024-2028 B.S. in Ecology, University of Malaya
 
 Latest Work
-------
+======
 I have submitted a molecular model algorithm to an AAAI workshop. I am currently developing a drug model using large language models.
 
 Publications & Manuscripts
