@@ -13,7 +13,7 @@ I am eager to contribute to innovative projects in AI Drug Discovery (AIDD) or c
 
 Education
 ======
-2024-2028 B.S. in Biology, University of Malaya
+2024-2028 B.S. in Ecology, University of Malaya
 
 Getting started
 ======
