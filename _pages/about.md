@@ -15,13 +15,12 @@ Education
 ======
 2024-2028 B.S. in Ecology, University of Malaya
 
+Latest Work
+------
+I have submitted a molecular model algorithm to an AAAI workshop. I am currently developing a drug model using large language models.
+
 Publications & Manuscripts
 ======
 
 1. A Comprehensive Survey of AI Models in Precision Medicine. 
 Zhixing Wang, Hao Tang. TechRxiv. October 24, 2025.[Paper](https://www.techrxiv.org/users/978290/articles/1345157-a-comprehensive-survey-of-ai-models-in-precision-medicine?commit=993c9ccc8c21409549983d2e3299ec826277478f)
-
-Other Works
-------
-I have submitted a molecular model algorithm to an AAAI workshop. I am currently developing a drug model using large language models.
-
