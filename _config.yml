@@ -24,13 +24,10 @@ repository               : "afrina-ceree/afrina-ceree.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Zhixing Wang"
+  location         : "Kuala Lumpur Malaysia"
+  employer         : "Universiti Malaya"
+  email            : "22085457@siswa.um.edu.my" 
 
   # Academic websites
   academia         : # URL
