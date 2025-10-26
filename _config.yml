@@ -186,7 +186,8 @@ exclude:
   - tmp
   - vendor
   - pages/cv.md
-  - teaching
+  - teaching/2014-spring-teaching-1.md
+  - teaching/2015-spring-teaching-2.md
 keep_files:
   - .git
   - .svn
