@@ -23,7 +23,7 @@ repository               : "afrina-ceree/afrina-ceree.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "01.pic.jpg"
+  avatar           : "images/01.pic.jpg"
   name             : "Zhixing Wang"
   location         : "Kuala Lumpur Malaysia"
   employer         : "Universiti Malaya"
