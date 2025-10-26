@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an undergraduate student at the University of Malaya and a research assistant at the School of Computer Science, Peking University. I am fortunate to have closely collaborated with [Prof. Hao Tang](https://ha0tang.github.io) during my undergraduate studies. 
 
-My research centers on the intersection of artificial intelligence and biomedical science, with a focus on developing computational approaches for drug discovery and biological data analysis.  I have authored two research papers that are currently under review, and I am deeply passionate about leveraging machine learning and large medical models to advance precision medicine and accelerate AI-driven drug development.
+I am eager to contribute to innovative projects in AI Drug Discovery (AIDD) or computational biology and welcome discussions regarding internship opportunities and collaborative ventures. If you are interested in learning more, I am available for a brief 10–15 minute meeting to share my insights. Please feel free to reach out to me at otiswzx@outlook.com.
 
 A data-driven personal website
 ======
